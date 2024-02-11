@@ -1,1 +1,15 @@
-css file
+body{
+    margin:200px;
+    font-family:Arialblack;
+    font-weight:200;
+    font-size:10px;
+    border-style:solid solid;
+    border-width:10px;
+    border-radius:1px;
+    border-color:lightpink;
+    line-height:2;
+    text-align:left;
+    color:white;
+    background-color:blue;
+}
+
